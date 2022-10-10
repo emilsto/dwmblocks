@@ -9,7 +9,7 @@ static const Block blocks[] = {
 
 	{" 🔊 ", "/opt/dwmblocks/scripts/volume",     0,		              10},
 
-	{" 🕑 ", "/opt/dwmblocks/scripts/clock",	     60,	              0},
+	{" 🕑 ", "/opt/dwmblocks/scripts/clock",	     1,	              0},
 };
 
 //sets delimeter between status commands. NULL character ('\0') means no delimeter.
